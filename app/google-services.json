@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "51880249243",
+    "firebase_url": "https://kiok-95ccb.firebaseio.com",
+    "project_id": "kiok-95ccb",
+    "storage_bucket": "kiok-95ccb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:51880249243:android:83f98a7484a3a857c1833e",
+        "android_client_info": {
+          "package_name": "com.example.kiok"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "51880249243-akoo4csspqop6pt7jdeo56acubg2hi8l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kiok",
+            "certificate_hash": "a945fc642c6c2ebc7b389bda266bc5cccceac119"
+          }
+        },
+        {
+          "client_id": "51880249243-676emi1hage9qpu9ln3a1492tlm1ietn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5rNOTTBSPdSW7DS7iPMrQklmIE6fF604"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "51880249243-676emi1hage9qpu9ln3a1492tlm1ietn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
