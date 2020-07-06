@@ -1,4 +1,6 @@
-![Logo](https://github.com/eapjerome/KioK/blob/master/app/src/main/res/drawable/logo.png)
+<p align="center">
+  <img src="https://github.com/eapjerome/KioK/blob/master/app/src/main/res/drawable/logo.png">
+ </p>
 
 # KioK
 This is an Android personnal project application made in **Kotlin** with **Android Studio** and lasted approximately a month and a half.
@@ -15,11 +17,25 @@ Once datas added and if needed, organized in different bundles, *Kiok* helps lea
 - Test oneself knowledge by getting questions of a selected bundle and typing their answers
 
 # Screenshots
-![Welcome Page](https://github.com/eapjerome/KioK/blob/master/screenshots/Screenshot_Welcome_Page.jpg)
-![Home Page](https://github.com/eapjerome/KioK/blob/master/screenshots/Screenshot_Home_Page.jpg)
-![Collection Page](https://github.com/eapjerome/KioK/blob/master/screenshots/Screenshot_Collection_Page.jpg)
-![Correct Answer](https://github.com/eapjerome/KioK/blob/master/screenshots/Screenshot_Correct_Answer.jpg)
-![Wrong Answer](https://github.com/eapjerome/KioK/blob/master/screenshots/Screenshot_Wrong_Answer.jpg)
+**Welcome Page**
+
+<img width="33%" src="https://github.com/eapjerome/KioK/blob/master/screenshots/Screenshot_Welcome_Page.jpg">
+
+**Home Page**
+
+<img width="33%" src="https://github.com/eapjerome/KioK/blob/master/screenshots/Screenshot_Home_Page.jpg">
+
+**Collection Page**
+
+<img width="33%" src="https://github.com/eapjerome/KioK/blob/master/screenshots/Screenshot_Collection_Page.jpg">
+
+**Correct Answer**
+
+<img width="33%" src="https://github.com/eapjerome/KioK/blob/master/screenshots/Screenshot_Correct_Answer.jpg">
+
+**Wrong Answer**
+
+<img width="33%" src="https://github.com/eapjerome/KioK/blob/master/screenshots/Screenshot_Wrong_Answer.jpg">
 
 # How to get it ?
 To get the application you can either:
