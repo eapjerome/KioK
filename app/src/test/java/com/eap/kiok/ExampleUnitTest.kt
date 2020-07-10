@@ -1,4 +1,4 @@
-package com.example.kiok
+package com.eap.kiok
 
 import org.junit.Assert.assertEquals
 import org.junit.Test

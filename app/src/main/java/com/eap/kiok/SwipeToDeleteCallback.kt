@@ -1,4 +1,4 @@
-package com.example.kiok
+package com.eap.kiok
 
 import android.content.Context
 import android.graphics.Canvas

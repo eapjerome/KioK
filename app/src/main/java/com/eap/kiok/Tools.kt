@@ -1,4 +1,4 @@
-package com.example.kiok
+package com.eap.kiok
 
 import android.app.Activity
 import android.app.AlertDialog

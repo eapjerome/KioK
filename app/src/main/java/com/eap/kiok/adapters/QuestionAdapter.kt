@@ -1,4 +1,4 @@
-package com.example.kiok.adapters
+package com.eap.kiok.adapters
 
 import android.content.Context
 import android.view.LayoutInflater
@@ -8,14 +8,14 @@ import android.view.WindowManager
 import androidx.appcompat.app.AlertDialog
 import androidx.core.widget.doAfterTextChanged
 import androidx.recyclerview.widget.RecyclerView
-import com.example.kiok.R
-import com.example.kiok.Tools.Companion.bundleAllID
-import com.example.kiok.Tools.Companion.currentBundleID
-import com.example.kiok.Tools.Companion.currentBundleName
-import com.example.kiok.Tools.Companion.generateSearchKeywords
-import com.example.kiok.Tools.Companion.questionsBundlesPath
-import com.example.kiok.interfaces.ICollectionFragment
-import com.example.kiok.models.Question
+import com.eap.kiok.R
+import com.eap.kiok.Tools.Companion.bundleAllID
+import com.eap.kiok.Tools.Companion.currentBundleID
+import com.eap.kiok.Tools.Companion.currentBundleName
+import com.eap.kiok.Tools.Companion.generateSearchKeywords
+import com.eap.kiok.Tools.Companion.questionsBundlesPath
+import com.eap.kiok.interfaces.ICollectionFragment
+import com.eap.kiok.models.Question
 import com.firebase.ui.firestore.FirestoreRecyclerAdapter
 import com.firebase.ui.firestore.FirestoreRecyclerOptions
 import kotlinx.android.synthetic.main.view_edit_question.view.*

@@ -1,4 +1,4 @@
-package com.example.kiok.adapters
+package com.eap.kiok.adapters
 
 import android.content.Context
 import android.graphics.Typeface
@@ -10,14 +10,14 @@ import androidx.appcompat.app.AlertDialog
 import androidx.core.os.bundleOf
 import androidx.core.widget.doAfterTextChanged
 import androidx.recyclerview.widget.RecyclerView
-import com.example.kiok.R
-import com.example.kiok.Tools.Companion.auth
-import com.example.kiok.Tools.Companion.currentBundleName
-import com.example.kiok.Tools.Companion.generateSearchKeywords
-import com.example.kiok.Tools.Companion.questionsBundlesPath
-import com.example.kiok.Tools.Companion.showLoadingDialog
-import com.example.kiok.interfaces.IHomeFragment
-import com.example.kiok.models.QuestionsBundle
+import com.eap.kiok.R
+import com.eap.kiok.Tools.Companion.auth
+import com.eap.kiok.Tools.Companion.currentBundleName
+import com.eap.kiok.Tools.Companion.generateSearchKeywords
+import com.eap.kiok.Tools.Companion.questionsBundlesPath
+import com.eap.kiok.Tools.Companion.showLoadingDialog
+import com.eap.kiok.interfaces.IHomeFragment
+import com.eap.kiok.models.QuestionsBundle
 import com.firebase.ui.firestore.FirestoreRecyclerAdapter
 import com.firebase.ui.firestore.FirestoreRecyclerOptions
 import com.google.android.material.snackbar.Snackbar

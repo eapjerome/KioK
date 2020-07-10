@@ -1,4 +1,4 @@
-package com.example.kiok.fragments
+package com.eap.kiok.fragments
 
 import android.content.Context
 import android.os.Bundle
@@ -12,12 +12,12 @@ import android.view.WindowManager
 import androidx.appcompat.app.AlertDialog
 import androidx.core.widget.doAfterTextChanged
 import androidx.fragment.app.Fragment
-import com.example.kiok.R
-import com.example.kiok.Tools.Companion.auth
-import com.example.kiok.Tools.Companion.checkFieldFilled
-import com.example.kiok.Tools.Companion.checkValidEmailField
-import com.example.kiok.Tools.Companion.currentUsername
-import com.example.kiok.interfaces.IMainActivity
+import com.eap.kiok.R
+import com.eap.kiok.Tools.Companion.auth
+import com.eap.kiok.Tools.Companion.checkFieldFilled
+import com.eap.kiok.Tools.Companion.checkValidEmailField
+import com.eap.kiok.Tools.Companion.currentUsername
+import com.eap.kiok.interfaces.IMainActivity
 import com.google.android.material.snackbar.Snackbar
 import com.google.android.material.textfield.TextInputEditText
 import com.google.android.material.textfield.TextInputLayout

@@ -1,4 +1,4 @@
-package com.example.kiok.fragments
+package com.eap.kiok.fragments
 
 import android.content.Context
 import android.os.Bundle
@@ -8,15 +8,15 @@ import android.view.View
 import android.view.ViewGroup
 import android.widget.Toast
 import androidx.fragment.app.Fragment
-import com.example.kiok.R
-import com.example.kiok.Tools.Companion.auth
-import com.example.kiok.Tools.Companion.checkFieldFilled
-import com.example.kiok.Tools.Companion.checkValidEmailField
-import com.example.kiok.Tools.Companion.dismissLoadingDialog
-import com.example.kiok.Tools.Companion.questionsBundlesPath
-import com.example.kiok.Tools.Companion.showLoadingDialog
-import com.example.kiok.hideKeyboard
-import com.example.kiok.interfaces.IMainActivity
+import com.eap.kiok.R
+import com.eap.kiok.Tools.Companion.auth
+import com.eap.kiok.Tools.Companion.checkFieldFilled
+import com.eap.kiok.Tools.Companion.checkValidEmailField
+import com.eap.kiok.Tools.Companion.dismissLoadingDialog
+import com.eap.kiok.Tools.Companion.questionsBundlesPath
+import com.eap.kiok.Tools.Companion.showLoadingDialog
+import com.eap.kiok.hideKeyboard
+import com.eap.kiok.interfaces.IMainActivity
 import com.google.android.material.snackbar.Snackbar
 import com.google.firebase.firestore.ktx.firestore
 import com.google.firebase.ktx.Firebase

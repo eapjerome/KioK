@@ -1,4 +1,4 @@
-package com.example.kiok.fragments
+package com.eap.kiok.fragments
 
 import android.content.Context
 import android.os.Bundle
@@ -9,12 +9,12 @@ import android.view.ViewGroup
 import android.view.inputmethod.EditorInfo
 import android.view.inputmethod.InputMethodManager
 import androidx.fragment.app.Fragment
-import com.example.kiok.R
-import com.example.kiok.Tools.Companion.dismissLoadingDialog
-import com.example.kiok.Tools.Companion.questionsBundlesPath
-import com.example.kiok.hideKeyboard
-import com.example.kiok.interfaces.IMainActivity
-import com.example.kiok.models.Question
+import com.eap.kiok.R
+import com.eap.kiok.Tools.Companion.dismissLoadingDialog
+import com.eap.kiok.Tools.Companion.questionsBundlesPath
+import com.eap.kiok.hideKeyboard
+import com.eap.kiok.interfaces.IMainActivity
+import com.eap.kiok.models.Question
 import com.google.firebase.firestore.ktx.toObject
 import kotlinx.android.synthetic.main.fragment_revise.*
 

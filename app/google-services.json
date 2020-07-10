@@ -10,7 +10,7 @@
       "client_info": {
         "mobilesdk_app_id": "1:51880249243:android:83f98a7484a3a857c1833e",
         "android_client_info": {
-          "package_name": "com.example.kiok"
+          "package_name": "com.eap.kiok"
         }
       },
       "oauth_client": [
@@ -18,7 +18,7 @@
           "client_id": "51880249243-akoo4csspqop6pt7jdeo56acubg2hi8l.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "com.example.kiok",
+            "package_name": "com.eap.kiok",
             "certificate_hash": "a945fc642c6c2ebc7b389bda266bc5cccceac119"
           }
         },

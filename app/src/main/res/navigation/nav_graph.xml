@@ -7,7 +7,7 @@
 
     <fragment
         android:id="@+id/welcomeFragment"
-        android:name="com.example.kiok.fragments.WelcomeFragment"
+        android:name="com.eap.kiok.fragments.WelcomeFragment"
         android:label="fragment_start"
         tools:layout="@layout/fragment_welcome">
         <action
@@ -24,7 +24,7 @@
     </fragment>
     <fragment
         android:id="@+id/signUpFragment"
-        android:name="com.example.kiok.fragments.SignUpFragment"
+        android:name="com.eap.kiok.fragments.SignUpFragment"
         android:label="fragment_create_account"
         tools:layout="@layout/fragment_sign_up" >
         <action
@@ -33,7 +33,7 @@
     </fragment>
     <fragment
         android:id="@+id/signInFragment"
-        android:name="com.example.kiok.fragments.SignInFragment"
+        android:name="com.eap.kiok.fragments.SignInFragment"
         android:label="fragment_sign_in"
         tools:layout="@layout/fragment_sign_in" >
         <action
@@ -42,7 +42,7 @@
     </fragment>
     <fragment
         android:id="@+id/homeFragment"
-        android:name="com.example.kiok.fragments.HomeFragment"
+        android:name="com.eap.kiok.fragments.HomeFragment"
         android:label="fragment_home"
         tools:layout="@layout/fragment_home" >
         <action
@@ -54,7 +54,7 @@
     </fragment>
     <fragment
         android:id="@+id/collectionFragment"
-        android:name="com.example.kiok.fragments.CollectionFragment"
+        android:name="com.eap.kiok.fragments.CollectionFragment"
         android:label="fragment_collection"
         tools:layout="@layout/fragment_collection" >
         <argument
@@ -63,7 +63,7 @@
     </fragment>
     <fragment
         android:id="@+id/userFragment"
-        android:name="com.example.kiok.fragments.UserFragment"
+        android:name="com.eap.kiok.fragments.UserFragment"
         android:label="fragment_user"
         tools:layout="@layout/fragment_user" >
         <action
@@ -80,12 +80,12 @@
     </fragment>
     <fragment
         android:id="@+id/reviseFragment"
-        android:name="com.example.kiok.fragments.ReviseFragment"
+        android:name="com.eap.kiok.fragments.ReviseFragment"
         android:label="fragment_revise"
         tools:layout="@layout/fragment_revise" />
     <fragment
         android:id="@+id/editPasswordFragment"
-        android:name="com.example.kiok.fragments.EditPasswordFragment"
+        android:name="com.eap.kiok.fragments.EditPasswordFragment"
         android:label="fragment_edit_password"
         tools:layout="@layout/fragment_edit_password" />
 

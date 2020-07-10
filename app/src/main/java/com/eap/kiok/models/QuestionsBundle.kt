@@ -1,4 +1,4 @@
-package com.example.kiok.models
+package com.eap.kiok.models
 
 import com.google.firebase.Timestamp
 
