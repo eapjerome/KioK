@@ -29,6 +29,10 @@ Once datas added and if needed, organized in different bundles, *Kiok* helps lea
 
 <img width="33%" src="https://github.com/eapjerome/KioK/blob/master/screenshots/Screenshot_Collection_Page.jpg">
 
+**Remove Question**
+
+<img width="33%" src="https://github.com/eapjerome/KioK/blob/master/screenshots/Screenshot_Remove_Question.jpg">
+
 **Correct Answer**
 
 <img width="33%" src="https://github.com/eapjerome/KioK/blob/master/screenshots/Screenshot_Correct_Answer.jpg">
@@ -40,7 +44,7 @@ Once datas added and if needed, organized in different bundles, *Kiok* helps lea
 # How to get it ?
 To get the application you can either:
 - Clone this project from Github and run it via Android studio
-- Directly install the app on the Android mobile device of your choice from the **Google Play Store**.
+- Directly install the app on the Android mobile device of your choice from the **Google Play Store** (https://play.google.com/store/apps/details?id=com.eap.kiok).
 
 If you have any problem getting my application, please let me know here: eapjerome@gmail.com
 
