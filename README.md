@@ -3,7 +3,7 @@
  </p>
 
 # KioK
-This is an Android personnal project application made in **Kotlin** with **Android Studio** and lasted approximately a month and a half.
+This is an Android personnal project application made in **Kotlin** with **Android Studio** and lasted approximately a month.
 
 # Description
 **Learning by heart is rough.**
